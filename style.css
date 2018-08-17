@@ -1,0 +1,21 @@
+body {
+  background-color: #80ced6;
+  line-height: 44px;
+  color: #5d1010
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 60px;
+  color: #80ced6;
+}
+
+h2 {}
+
+p {
+  font-size: 25px;
+}
+
+a:link {
+  color: #ff0000;
+}
